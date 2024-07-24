@@ -2,7 +2,7 @@
   "name": "hapi-inertia",
   "version": "0.1.0",
   "description": "Hapi plugin for InertiaJS.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
