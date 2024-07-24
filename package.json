@@ -1,0 +1,14 @@
+{
+  "name": "hapi-inertia",
+  "version": "0.1.0",
+  "description": "Hapi plugin for InertiaJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Flores <sergio@byoigr.es>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10"
+  }
+}
